@@ -10,7 +10,7 @@ Main configs:
 | Files                             | Description                                |
 | --------------------------------- |:------------------------------------------:|
 | ./env                             | restricts                                  |
-| ./logstash/pipeline/logstash.conf | convert data for elasticserch              |
+| ./logstash/pipeline/logstash.conf | convert data for elasticsearch             |
 ```
 
 Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker Compose.
